@@ -1,0 +1,8 @@
+dff @ git+https://github.com/deeppavlov/dialog_flow_framework@merge/slots
+pydantic==2.0.3
+pytest==7.4.0
+huggingface_hub
+pytest-asyncio==0.21.0
+langchain==0.0.267
+fastapi==0.101.0
+uvicorn==0.18.3
