@@ -3,7 +3,7 @@
 ### Restaurant booking bot
 
 Restaurant booking bot built on `DFF`. Uses streamlit as an interface.
-This bot was created to demonstrate the use of [slots]()
+This bot was created to demonstrate the use of slots
 
 As models for extraction of slots were taken [NER](https://huggingface.co/Davlan/distilbert-base-multilingual-cased-ner-hrl) and [Open Assistant](https://huggingface.co/OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5) models
 
